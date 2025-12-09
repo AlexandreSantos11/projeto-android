@@ -71,13 +71,10 @@ nav {
 
 nav > a {
     color: var(--cor1);
-    padding: 5px;
+    padding: 5px 5px 3px 5px;
     text-decoration: none;
     font-weight: bold;
-    margin-left: 2px;
-    margin-right: 7px;
-    margin-bottom: 20px;
-    padding-left: 3px;
+    margin: 0 7px 20px 2px;
 }
 
 nav > a:hover {
